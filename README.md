@@ -1,2 +1,2 @@
-fungal_function
+ReadMe: FungGuild 
 ===============
