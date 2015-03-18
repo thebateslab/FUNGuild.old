@@ -1,2 +1,2 @@
-ReadMe: FungGuild 
+FUNGuild (old R script)
 ===============
